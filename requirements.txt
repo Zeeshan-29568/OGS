@@ -1,0 +1,17 @@
+# System Requirements for OGS Website
+Node.js >= 20.x
+npm (comes with Node.js)
+
+# Installation Instructions
+# Since this is a Node.js/Next.js project, it does not use a Python-style requirements.txt for package management.
+# All dependencies are already defined in `package.json`. 
+
+# To set up the project on a new machine, run the following commands:
+npm install
+
+# To run the development server:
+npm run dev
+
+# To build for production:
+npm run build
+npm start
